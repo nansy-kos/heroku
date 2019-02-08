@@ -1,50 +1,50 @@
 # Project Title
 
-One Paragraph of project description goes here
+Один абзац описания проекта находится здесь
 
-## Getting Started
+## Начиная
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Эти инструкции предоставят вам копию проекта, запущенную на вашем локальном компьютере для целей разработки и тестирования. См. Развертывание для заметок о том, как развернуть проект в работающей системе.
 
-### Prerequisites
+### Предпосылки
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-hjbhbn
-
-Say what the step will be
+Что нужно для установки программного обеспечения и как их установить
 
 ```
 Привести примеры
 ```
 
-And repeat
+### Установка
+
+hjbhbn
+
+Скажите, какой шаг будет
 
 ```
-until finished
+Привести примеры
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+И повторить
 
 ```
-Give an example
+пока не закончено
 ```
 
-### And coding style tests
+Завершите пример получения некоторых данных из системы или использования их для небольшой демонстрации
+
+## Запуск тестов
+
+Объясните, как запустить автоматизированные тесты для этой системы
+
+### Разбить в конец до конца испытаний
+
+Объясните, что тестируют эти тесты и почему
+
+```
+Приведите пример
+```
+
+### И тесты стиля кодирования
 
 Объясните, что тестируют эти тесты и почему
 
@@ -52,36 +52,36 @@ Give an example
 Привести примеры
 ```
 
-## Deployment
+## развертывание
 
-Add additional notes about how to deploy this on a live system
+Добавьте дополнительные заметки о том, как развернуть это в реальной системе
 
-## Built With
+## Построен с
 
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency Management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - используемый веб-фреймворк
+- [Maven](https://maven.apache.org/) - Управление зависимостями
+- [РИМ](https://rometools.github.io/rome/) - Используется для создания RSS-каналов
 
 ## Помощь в разработке
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Пожалуйста, ознакомьтесь с [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) для получения подробной информации о нашем кодексе поведения и процедуре подачи нам запросов на получение ответов.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+Мы используем [SemVer](http://semver.org/) для управления версиями. Доступные версии см. В [тегах этого хранилища](https://github.com/your/project/tags) .
 
-## Authors
+## Авторы
 
-- **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- **Билли Томпсон** - *Начальная работа* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Смотрите также список [участников,](https://github.com/your/project/contributors) которые участвовали в этом проекте.
 
-## License
+## Лицензия
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Этот проект лицензирован по лицензии MIT - подробности смотрите в файле [LICENSE.md](LICENSE.md)
 
-## Acknowledgments
+## Подтверждения
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Шляпа для всех, чей код был использован
+- вдохновение
+- так далее
